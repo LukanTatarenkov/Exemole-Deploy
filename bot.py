@@ -6,7 +6,7 @@ from aiogram.filters import Command
 from aiogram.utils.keyboard import ReplyKeyboardBuilder
 
 # --- КОНФІГУРАЦІЯ ---
-TOKEN = "ВАШ_ТОКЕН_ТУТ"  # Отримайте у @BotFather
+TOKEN = "8714834034:AAH7lzisnhHIxjU474AIsMKb_xp9aa84Lfo"  # Отримайте у @BotFather
 
 # --- ДАНІ ТА ЛОГІКА ---
 QUOTES = [
